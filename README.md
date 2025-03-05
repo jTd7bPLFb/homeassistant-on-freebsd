@@ -2,7 +2,7 @@
 
 Run HomeAssistant on FreeBSD using bhyve
 
-**Basic Backages needed**
+**Basic Packages needed**
 
 ```
 pkg update
